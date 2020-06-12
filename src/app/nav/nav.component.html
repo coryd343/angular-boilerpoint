@@ -1,0 +1,4 @@
+<header>
+  <button mat-raised-button (click)="authService.login()" *ngIf="!authService.loggedIn">Log In</button>
+  <button mat-raised-button (click)="authService.logout()" *ngIf="authService.loggedIn">Log Out</button>
+</header>
