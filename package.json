@@ -26,7 +26,7 @@
     "@auth0/auth0-spa-js": "^1.1.1",
     "angular-flex": "^1.0.3",
     "angular2-jwt": "^0.2.3",
-    "auth0-lock": "^11.17.0",
+    "auth0-lock": "^11.26.0",
     "core-js": "^2.5.4",
     "hammerjs": "^2.0.8",
     "rxjs": "~6.3.3",
